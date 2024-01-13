@@ -1,0 +1,5 @@
+1,Clovever,75,16.0 
+2,Piattos ,68,12.0 
+3,Ricci   ,10,16.0
+4,Vaseline,10,125.5
+5, JPG Ultra Male,50,16125.0
